@@ -9,19 +9,9 @@ Conventional and Structured Abstract均包括以下内容：
 
 2. Methods：
 
-   1. 总的概述：to xxx, this paper proposed a xxx method with xxx.
-   2. 简要介绍方法步骤。
-
 3. results：
-
-   Comprehensive experiments reveal that the proposed method achieves xxx perpormance of xx xx.
 
 4. Conclusions：
 
    
-
-自己的abstract需要注意：
-
-1. 应避免使用过多的被动语态；
-2. 表述的brevity。
 
