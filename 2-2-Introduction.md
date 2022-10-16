@@ -29,7 +29,8 @@ Notes:
 
 ​	(1) introduce your research methods, findings, and significance
 
-
+第五段：罗列文章结构 (optional)
+​	(1) introduce the structure of the munuscript. 
 
 
 
